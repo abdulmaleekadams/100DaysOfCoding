@@ -1,0 +1,22 @@
+body {
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    background-color: rgb(233, 215, 207);
+    margin: 50px;
+  }
+  
+  h1 {
+    color: rgb(67, 61, 61);
+    font-weight: 900;
+  }
+  
+  p {
+    color: #625f5f;
+    font-weight: 500;
+  }
+  
+  a {
+    text-decoration: none;
+    color: rgb(169, 21, 21);
+  }
+  
