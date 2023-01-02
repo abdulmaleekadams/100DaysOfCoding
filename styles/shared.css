@@ -3,6 +3,7 @@ body {
     text-align: center;
     background-color: rgb(233, 215, 207);
     margin: 50px;
+    font-weight: 500;
   }
   
   h1 {
@@ -12,11 +13,12 @@ body {
   
   p {
     color: #625f5f;
-    font-weight: 500;
   }
   
   a {
     text-decoration: none;
     color: rgb(169, 21, 21);
   }
-  
+  a:hover {
+    text-decoration: underline;
+  }
